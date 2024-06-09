@@ -6,4 +6,5 @@ practices:
 * Promises Exercise 5 (from www.learn-js.org)
 * Callbacks Example
 * Callbacks Exercise 1 & 2
-* 
+* Promises Example
+* Promises Exercise 6 & 7
