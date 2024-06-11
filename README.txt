@@ -7,4 +7,4 @@ practices:
 * Callbacks Example
 * Callbacks Exercise 1 & 2
 * Promises Example
-* Promises Exercise 6 & 7
+* Promises Exercise 6, 7, 8, 9 , 10
