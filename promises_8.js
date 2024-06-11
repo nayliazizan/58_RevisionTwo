@@ -12,10 +12,11 @@ function sequentialTasks(tasks) {
 
     //iterate through the tasks and chain the promises
     tasks.forEach(task => {
+        //chain the current task to the promise chain
         promiseChain = promiseChain
-            .then(() => task())
+            .then(() => task()) //execute the current task
             .then(result => {
-                newArr.push(result);
+                newArr.push(result); //collect the result of the task
             });
     });
 
